@@ -1,2 +1,2 @@
-# leprophec.github.io
-Portfolio Design
+# elkryptic.github.io
+Basic Portfolio Design
