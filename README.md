@@ -24,10 +24,6 @@
 
 - [About](#about)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
-- [Usage](#usage)
-- [Built Using](#built_using)
-- [TODO](../TODO.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
